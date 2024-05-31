@@ -1,0 +1,36 @@
+{
+  "data": {
+    "1": {
+      "title": {
+        "text": "Explore Nature"
+      },
+      "description": "Discover the beauty of natural landscapes",
+      "img": "https://cdn.stocksnap.io/img-thumbs/960w/evergreen-tree_B8TK393LXX.jpg",
+      "color": "#74c69d"
+    },
+    "2": {
+      "title": {
+        "text": "Adventure Awaits"
+      },
+      "description": "Embark on thrilling journeys and expeditions",
+      "img": "https://cdn.stocksnap.io/img-thumbs/960w/Adventure-Jungle_XPEY4PKBUD.jpg",
+      "color": "#ffa07a"
+    },
+    "3": {
+      "title": {
+        "text": "Unleash Creativity"
+      },
+      "description": "Express yourself through art and imagination",
+      "img": "https://cdn.stocksnap.io/img-thumbs/960w/colors-colored%20pencils_DC6ZYENEAA.jpg",
+      "color": "#6a5acd"
+    },
+    "4": {
+      "title": {
+        "text": "vivir"
+      },
+      "description": "Express yourself through art and imagination",
+      "img": "https://cdn.stocksnap.io/img-thumbs/960w/colors-colored%20pencils_DC6ZYENEAA.jpg",
+      "color": "#237681"
+    }
+  }
+}
